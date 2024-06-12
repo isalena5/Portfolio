@@ -1,0 +1,1 @@
+# This is my Group's final project for ENSE 271. This project was made to create awareness and incite involvement with the Sustainable Development Goals (SDGs) in Regina, Saskatchewan, through a website with relevant information to educate and bring awareness to these issues.
